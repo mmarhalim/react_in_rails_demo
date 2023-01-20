@@ -6,7 +6,7 @@ import './home.scss';
 
 const Home = () => (
   <Layout>
-    <h1>Home page testing web server</h1>
+    <h1>Home page testing</h1>
   </Layout>
 )
 
